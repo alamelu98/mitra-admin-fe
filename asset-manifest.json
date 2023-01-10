@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mitra-admin-fe/static/css/main.dd626a00.css",
+    "main.js": "/mitra-admin-fe/static/js/main.3e8671ba.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mitra-admin-fe/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/mitra-admin-fe/index.html",
+    "main.dd626a00.css.map": "/mitra-admin-fe/static/css/main.dd626a00.css.map",
+    "main.3e8671ba.js.map": "/mitra-admin-fe/static/js/main.3e8671ba.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mitra-admin-fe/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd626a00.css",
+    "static/js/main.3e8671ba.js"
+  ]
+}
